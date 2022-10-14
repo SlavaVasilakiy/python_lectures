@@ -1,0 +1,10 @@
+list1 = [1, 2, 3, 4, 5]
+print(list1)
+list1.pop(1)
+print(list1)
+list1.insert(1, 22)
+print(list1)
+list1.pop(4)
+print(list1)
+list1.append(555)
+print(list1)
